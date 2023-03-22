@@ -1,0 +1,49 @@
+HELP.md
+target/
+**/target/**
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+.mvn
+*.iws
+*.iml
+*.ipr
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+
+### logs ###
+logs/
+log_home_IS_UNDEFINED/
+/customer/target/
+/card/target/
+/afterinspection/target/
+/base/target/
+/exam/target/
+/common/target/
+/gateway/target/
+/quotation/target/
+/log_home_IS_UNDEFINED/
+/.idea/
+/.idea/libraries/
